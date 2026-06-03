@@ -60,7 +60,7 @@ Implementou-se o **Processamento em Lote (Batch Processing)** aproveitando os te
 ## 📂 Estrutura do Repositório
 
 * `Notebook_Principal.ipynb`: Pipeline ponta a ponta contendo extração, tratamento de nulos, isolamento de regras de negócio, inferência dos modelos e validação estatística.
-* `images/`: Gráficos gerados pelas bibliotecas Matplotlib e Seaborn para os relatórios executivos.
+  
 
 ## ⚙️ Como Executar o Projeto
 
